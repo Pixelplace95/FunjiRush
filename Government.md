@@ -1,3 +1,3 @@
-[[Main Govermment]]
+[[Main Government]]
 [[Threats to stability]]
 [[Resistance Groups]]
