@@ -1,3 +1,3 @@
 [[Currency]]
-[[EcOnomic Classes]]
+[[Economic Classes]]
 [[Trade Routes]]
