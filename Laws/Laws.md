@@ -1,4 +1,4 @@
 [[Punishment Types]]
-[[Penal Systen]]
+[[Penal System]]
 [[Important Laws]]
 
