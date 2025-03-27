@@ -1,6 +1,0 @@
-[[Escopeta]]
-[[Uzi]]
-[[1911]]
-[[Combo]]
-[[Gimicks]]
-[[Mecánicas]]
